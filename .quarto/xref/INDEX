@@ -1,17 +1,17 @@
 {
   "index.qmd": {
-    "index.html": "684454b8"
-  },
-  "blog.qmd": {
-    "blog.html": "33485e7b"
+    "index.html": "506c9fcf"
   },
   "posts/post-with-code/index.qmd": {
-    "index.html": "a57fef78"
+    "index.html": "473ba116"
   },
   "posts/welcome/index.qmd": {
-    "index.html": "b9fc9c01"
+    "index.html": "7b1dd8de"
   },
   "posts/sample_notebook/sample.ipynb": {
-    "sample.html": "62ab34a6"
+    "sample.html": "4e522569"
+  },
+  "about.qmd": {
+    "about.html": "b96500d5"
   }
 }
